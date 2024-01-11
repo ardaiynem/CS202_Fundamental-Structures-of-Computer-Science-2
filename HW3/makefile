@@ -1,0 +1,2 @@
+hw3 : main.cpp TreeNode.cpp NodeAVL.cpp Node23.cpp DictionarySearchTree.cpp DictionaryBST.cpp DictionaryAVLTree.cpp Dictionary23Tree.cpp
+	g++ main.cpp TreeNode.cpp NodeAVL.cpp Node23.cpp DictionarySearchTree.cpp DictionaryBST.cpp DictionaryAVLTree.cpp Dictionary23Tree.cpp -o hw3
